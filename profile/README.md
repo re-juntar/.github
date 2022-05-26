@@ -1,16 +1,22 @@
 
-<picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/979158431959253023/979178478236758086/logo-fai.png">
-    <p>
-        <img alt="Shows UNComa FAI logo" src="https://cdn.discordapp.com/attachments/979158431959253023/979158617217445919/logo-fai-w.png" width="250">
-    </p>
+<picture>
+
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/979158431959253023/979178478236758086/logo-fai.png">
+ 
+ <p align="center">
+  <img alt="Shows UNComa FAI logo" src="https://cdn.discordapp.com/attachments/979158431959253023/979158617217445919/logo-fai-w.png" width="250">
+ </p>
+
 </picture>
 
-<picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/979158431959253023/979158655045865562/juntar-logo-k.png">
-    <p>
-        <img alt="Shows UNComa FAI logo" src="https://cdn.discordapp.com/attachments/979158431959253023/979158655045865562/juntar-logo-w.png" width="250">
-    </p>
+<picture>
+
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/979158431959253023/979158655045865562/juntar-logo-k.png">
+ 
+ <p align="center">
+  <img alt="Shows JUNTAR logo" src="https://cdn.discordapp.com/attachments/979158431959253023/979158655045865562/juntar-logo-w.png" width="250">
+ </p>
+
 </picture>
 
 # Re-Juntar 
@@ -32,11 +38,14 @@ Algunas funciones del sitio que pueden interesarte:
 
 <br>
 
-<picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/979158431959253023/979158655809249310/juntar-icon-b.png">
-    <p>
-        <img alt="Shows UNComa FAI logo" src="https://cdn.discordapp.com/attachments/979158431959253023/979158656048308305/juntar-icon-w.png" width="100">
-    </p>
+<picture>
+
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/979158431959253023/979158655809249310/juntar-icon-b.png">
+ 
+ <p align="center">
+  <img alt="Shows JUNTAR logo" src="https://cdn.discordapp.com/attachments/979158431959253023/979158656048308305/juntar-icon-w.png" width="100">
+ </p>
+
 </picture>
 
 ## Tecnologías utilizadas
