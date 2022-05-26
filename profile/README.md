@@ -1,9 +1,17 @@
-<p align="center">
-<a href="http://faiweb.uncoma.edu.ar/"><img src="https://cdn.discordapp.com/attachments/979158431959253023/979158617217445919/logo-fai-w.png" width="250"></a>
-<br><br>
-<a href="https://juntar.fi.uncoma.edu.ar/"><img src="https://cdn.discordapp.com/attachments/979158431959253023/979158655045865562/juntar-logo-w.png" width="250"></a>
-</p>
 
+<picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/979158431959253023/979178478236758086/logo-fai.png">
+    <p>
+        <img alt="Shows UNComa FAI logo" src="https://cdn.discordapp.com/attachments/979158431959253023/979158617217445919/logo-fai-w.png" width="250">
+    </p>
+</picture>
+
+<picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/979158431959253023/979158655045865562/juntar-logo-k.png">
+    <p>
+        <img alt="Shows UNComa FAI logo" src="https://cdn.discordapp.com/attachments/979158431959253023/979158655045865562/juntar-logo-w.png" width="250">
+    </p>
+</picture>
 
 # Re-Juntar 
 > "Re-Juntar nace de la necesidad de migrar y mejorar el proyecto JUNTAR a tecnologías más recientes. Juntar es una plataforma web para gestión de eventos, la cual permite navegar, crear y participar en eventos publicados de forma sencilla y en forma onlini. La misma es intuitiva, fácil de usar y no se necesitan conocimientos previos."
@@ -24,9 +32,12 @@ Algunas funciones del sitio que pueden interesarte:
 
 <br>
 
-<p align="center">
-<a href="#"><img src="https://cdn.discordapp.com/attachments/979158431959253023/979158656048308305/juntar-icon-w.png" width="100"></a>
-</p>
+<picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/979158431959253023/979158655809249310/juntar-icon-b.png">
+    <p>
+        <img alt="Shows UNComa FAI logo" src="https://cdn.discordapp.com/attachments/979158431959253023/979158656048308305/juntar-icon-w.png" width="100">
+    </p>
+</picture>
 
 ## Tecnologías utilizadas
 <p align="left">
