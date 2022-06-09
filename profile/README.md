@@ -5,7 +5,7 @@
 </p>
 
 # Re-Juntar 
-> "Re-Juntar nace de la necesidad de migrar y mejorar el proyecto JUNTAR a tecnologías más recientes. Juntar es una plataforma web para gestión de eventos, la cual permite navegar, crear y participar en eventos publicados de forma sencilla y en forma onlini. La misma es intuitiva, fácil de usar y no se necesitan conocimientos previos."
+> "Re-Juntar nace de la necesidad de migrar y mejorar el proyecto JUNTAR a tecnologías más recientes. Juntar es una plataforma web para gestión de eventos, la cual permite navegar, crear y participar en eventos publicados de forma sencilla y en forma online. La misma es intuitiva, fácil de usar y no se necesitan conocimientos previos."
 
 Algunas funciones del sitio que pueden interesarte:
 - Buscar eventos que te interesen.
